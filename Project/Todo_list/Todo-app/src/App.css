@@ -1,0 +1,24 @@
+h2 {
+    font-size: 45px;
+    font-weight: 700;
+    margin: 10px;
+    margin-bottom: 3%;
+}
+input{
+  padding: 5px 3px;
+  font-size: small;
+  font-style: italic;
+  border-radius: 2%;
+  width: 100%;
+}
+.items-container{
+  text-align: left;
+
+}
+.kg-button{
+  padding: 5px 3px;
+  min-width: 85px;
+}
+.kg-row{
+  margin: 10px 5px;
+}
